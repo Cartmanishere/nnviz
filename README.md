@@ -1,13 +1,20 @@
 ## NNViz :
 
-This is a library I built for my Artificical Neural Networks course.
+This is a library I built for my Artificial Neural Networks and Machine Learning coursework.
 
 It provides functions using which you can easily visualize the decision boundary learned by any classifier (Nerual Network or others).
 
 Check the `output_demo.ipynb` for examples.
 
-There is also support so you can directly visualize the decision boundary of any keras model as well.
+### Data
+![Dataset](https://i.ibb.co/hVr3cLY/download.png)
 
-This is a WIP/Unfinished project. Use it for reference in case you have the requirement for same kind of functionality.
 
-Feel free to extend it however you want.
+###Decision boundary for Keras Classifier:
+
+![Keras Classifier Decision Boundary](https://i.ibb.co/qxRSBLf/download-1.png)
+
+
+### Decision boundary for SVM Classifier:
+![SVM Classifier Decision Boundary](https://i.ibb.co/m9MQQK6/download-2.png)
+
