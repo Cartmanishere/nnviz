@@ -10,7 +10,7 @@ Check the `output_demo.ipynb` for examples.
 ![Dataset](https://i.ibb.co/hVr3cLY/download.png)
 
 
-###Decision boundary for Keras Classifier:
+### Decision boundary for Keras Classifier:
 
 ![Keras Classifier Decision Boundary](https://i.ibb.co/qxRSBLf/download-1.png)
 
